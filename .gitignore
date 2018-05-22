@@ -20,3 +20,5 @@ test_merged\.csv
 test_partial\.csv
 
 queryfiles/
+
+*.csv
